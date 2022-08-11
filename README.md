@@ -2,7 +2,7 @@
 Collection of Site to Site VPN Settings. The following configurations were successfully tested with encryption and integrity selections incrementally increased until VPN connection failed.
 
 Microsoft Docs Tutorial for Site-to-Site VPN
-https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal
+- https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal
 
 ## Palo Alto
 IKE Phase 1
